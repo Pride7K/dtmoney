@@ -17,7 +17,7 @@ Seu intuito é servir como uma aplicação de gestão financeira onde o usuário
   
 ## 🔥 Demo
 
-Not deployed yet 😔
+https://dtmoney-3b7c1.web.app
 
   
 ## ⚙️ Run Locally
