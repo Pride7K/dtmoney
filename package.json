@@ -3,11 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "-": "^0.0.1",
     "@types/react-modal": "^3.12.0",
     "@types/styled-components": "^5.1.10",
     "axios": "^0.21.1",
-    "d": "^1.0.1",
     "mirage.js": "^1.0.0",
     "miragejs": "^0.1.41",
     "polished": "^4.1.3",

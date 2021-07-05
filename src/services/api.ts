@@ -2,7 +2,7 @@ import axios from "axios"
 
 
 const api = axios.create({
-    baseURL:"https://localhost:3000/api"
+    baseURL:"https://dtmoney-3b7c1.web.app/api"
 })
 
 export {api}

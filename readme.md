@@ -40,6 +40,10 @@ Install dependencies
   yarn install
 ```
 
+```bash
+ Go to src/servies/api.ts and change to your localhost path
+```
+
 Start the server
 
 ```bash
